@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Emre Enes Yenen</h1>
 <h3 align="center">Full-Stack Developer</h3>
-![emre](https://github.com/1yemre/1yemre/assets/107006546/1851af37-f1db-4b13-9482-3887f145f0ce)
+
+![emre](https://github.com/1yemre/1yemre/assets/107006546/ebe87dad-6160-4875-90d7-c6e0018f2531)
 
 
 
